@@ -2,7 +2,9 @@
 
 
 Name:　Ennui
+
 Age: 16
+
 From: Japan
 
 
